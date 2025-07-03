@@ -1,0 +1,10 @@
+📦 Launch Instructions for HEC PathWise
+
+1. Upload all files from this folder into your GitHub repo: annettelinders/HEC-PathWise
+2. In Render:
+   - Create a new Web Service
+   - Connect to this GitHub repo
+   - Set the Start Command: streamlit run app.py
+3. Once deployed, Render will provide a public link to your app
+
+Test transcripts can be uploaded directly in the browser for real-time output.
